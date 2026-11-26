@@ -1,0 +1,6 @@
+.env
+papers/
+papers.zip
+evals/logs/cache.json
+.venv/
+__pycache__/
